@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: DiamondPricePrdiction
+Version: 0.0.1
+Author: YashSharma
+Author-email: ys136450@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: seaborn

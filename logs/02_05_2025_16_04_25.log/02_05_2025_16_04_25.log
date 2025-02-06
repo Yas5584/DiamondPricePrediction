@@ -1,0 +1,12 @@
+[ 2025-02-05 16:04:30,039 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-05 16:04:30,054 ] 97 werkzeug - INFO -  * Debugger PIN: 758-014-973
+[ 2025-02-05 16:04:30,624 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 16:04:30] "[35m[1mGET /predict_datapoint HTTP/1.1[0m" 500 -
+[ 2025-02-05 16:04:30,702 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 16:04:30] "[36mGET /predict_datapoint?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-02-05 16:04:30,755 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 16:04:30] "[36mGET /predict_datapoint?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-02-05 16:04:30,851 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 16:04:30] "GET /predict_datapoint?__debugger__=yes&cmd=resource&f=console.png&s=mN5ZaKgl62L0Hicqv9SI HTTP/1.1" 200 -
+[ 2025-02-05 16:04:30,927 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 16:04:30] "[36mGET /predict_datapoint?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-02-05 16:04:41,996 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 16:04:41] "[35m[1mGET /predict_datapoint HTTP/1.1[0m" 500 -
+[ 2025-02-05 16:04:42,083 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 16:04:42] "[36mGET /predict_datapoint?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-02-05 16:04:42,101 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 16:04:42] "[36mGET /predict_datapoint?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-02-05 16:04:42,135 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 16:04:42] "[36mGET /predict_datapoint?__debugger__=yes&cmd=resource&f=console.png&s=mN5ZaKgl62L0Hicqv9SI HTTP/1.1[0m" 304 -
+[ 2025-02-05 16:10:07,686 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ys136\\Desktop\\Data Science\\Diamond Price Prediction\\application.py', reloading

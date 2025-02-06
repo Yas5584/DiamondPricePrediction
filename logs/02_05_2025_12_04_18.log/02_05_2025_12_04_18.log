@@ -1,0 +1,5 @@
+[ 2025-02-05 12:04:23,466 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-05 12:04:23,481 ] 97 werkzeug - INFO -  * Debugger PIN: 758-014-973
+[ 2025-02-05 12:04:24,051 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 12:04:24] "GET /predict HTTP/1.1" 200 -
+[ 2025-02-05 12:04:34,131 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 12:04:34] "GET /predict HTTP/1.1" 200 -
+[ 2025-02-05 12:06:29,896 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ys136\\Desktop\\Data Science\\Diamond Price Prediction\\application.py', reloading

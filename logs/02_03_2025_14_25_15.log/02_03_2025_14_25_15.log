@@ -1,0 +1,25 @@
+[ 2025-02-03 14:25:20,352 ] 20 root - INFO - data ingestion method starts
+[ 2025-02-03 14:25:28,215 ] 29 root - INFO - data ingestion method completed
+[ 2025-02-03 14:25:28,900 ] 67 root - INFO - read train and test are completed
+[ 2025-02-03 14:25:28,918 ] 68 root - INFO - Train DataFrame Path: 
+       id  carat      cut color clarity  depth  table     x     y     z  price
+0  168192   0.34    Ideal     I    VVS2   60.9   57.0  4.56  4.53  2.76    765
+1   35202   0.90     Good     E     SI1   63.8   57.0  6.07  6.03  3.87   4763
+2   41091   1.02  Premium     G     VS1   62.7   58.0  6.35  6.39  4.00   6139
+3   31239   0.32  Premium     G     VS2   62.1   59.0  4.37  4.35  2.71    720
+4   45722   0.35    Ideal     J    VVS2   61.1   56.0  4.53  4.57  2.78    774 
+[ 2025-02-03 14:25:28,933 ] 69 root - INFO - Test DataFrame Path: 
+       id  carat        cut color clarity  depth  table     x     y     z  price
+0   70432   0.53    Premium     E     VS2   60.8   56.0  5.24  5.21  3.19   1607
+1   64839   0.71  Very Good     H     SI1   62.9   57.0  5.67  5.69  3.56   2211
+2  185316   0.30      Ideal     H      IF   62.1   57.0  4.27  4.29  2.66    764
+3   84658   1.24    Premium     G     VS2   61.6   61.0  6.88  6.82  4.21   7655
+4   31953   0.36    Premium     E     VS1   60.4   58.0  4.60  4.63  2.80    735 
+[ 2025-02-03 14:25:28,934 ] 70 root - INFO - Obtainig Preproessor object
+[ 2025-02-03 14:25:28,934 ] 26 root - INFO - Data Transformation Process started
+[ 2025-02-03 14:25:28,934 ] 34 root - INFO - Pipeline concept started
+[ 2025-02-03 14:25:30,000 ] 85 root - INFO - Applying preprocessing object on training and testing data
+[ 2025-02-03 14:25:30,035 ] 96 root - INFO - pickle file created and completed
+[ 2025-02-03 14:25:30,048 ] 24 root - INFO - Splitting  dependent and independent data from train and test
+[ 2025-02-03 14:25:30,048 ] 23 root - INFO - Model Evaluation Started
+[ 2025-02-03 14:25:37,675 ] 40 root - INFO - model report is: {'linear regression': 0.9242423558860466, 'decision tree rgression': 0.9567790546143672, 'lasso regression': 0.9242520971181715, 'elasticnet': 0.8456130988120307, 'ridge regression': 0.9242420483271445}

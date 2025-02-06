@@ -1,0 +1,40 @@
+[ 2025-02-05 23:21:26,241 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-05 23:21:26,255 ] 97 werkzeug - INFO -  * Debugger PIN: 758-014-973
+[ 2025-02-05 23:21:26,818 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:21:26] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:21:42,427 ] 58 root - INFO - DataFrame Gathered
+[ 2025-02-05 23:21:43,029 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:21:43] "POST /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:24:28,401 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:24:28] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:24:55,279 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:24:55] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:24:56,979 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:24:56] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:24:57,193 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:24:57] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:24:57,637 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:24:57] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:27:03,623 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:03] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:27:37,803 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:37] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:32:32,763 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:32:32] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:33:02,288 ] 58 root - INFO - DataFrame Gathered
+[ 2025-02-05 23:33:02,376 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:33:02] "POST /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:33:18,416 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:33:18] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:33:30,115 ] 58 root - INFO - DataFrame Gathered
+[ 2025-02-05 23:33:30,190 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:33:30] "POST /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:34:56,416 ] 58 root - INFO - DataFrame Gathered
+[ 2025-02-05 23:34:56,805 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:34:56] "POST /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:35:01,454 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:35:01] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:35:21,288 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:35:21] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:35:30,583 ] 58 root - INFO - DataFrame Gathered
+[ 2025-02-05 23:35:30,644 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:35:30] "POST /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:35:33,041 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:35:33] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:35:36,309 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:35:36] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:35:40,070 ] 58 root - INFO - DataFrame Gathered
+[ 2025-02-05 23:35:40,136 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:35:40] "POST /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:35:41,563 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:35:41] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:36:34,633 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:36:34] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-05 23:36:42,311 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:36:42] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:36:49,491 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:36:49] "GET /login HTTP/1.1" 200 -
+[ 2025-02-05 23:36:53,597 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:36:53] "GET /register HTTP/1.1" 200 -
+[ 2025-02-05 23:36:57,522 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:36:57] "GET /login HTTP/1.1" 200 -
+[ 2025-02-05 23:37:05,293 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:37:05] "[32mPOST /login HTTP/1.1[0m" 302 -
+[ 2025-02-05 23:37:05,314 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:37:05] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-05 23:37:16,201 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:37:16] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:37:22,116 ] 58 root - INFO - DataFrame Gathered
+[ 2025-02-05 23:37:22,297 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:37:22] "POST /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:37:25,870 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:37:25] "GET /predict_datapoint HTTP/1.1" 200 -

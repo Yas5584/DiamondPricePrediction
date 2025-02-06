@@ -1,0 +1,27 @@
+[ 2025-02-05 10:43:40,913 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-05 10:43:40,930 ] 97 werkzeug - INFO -  * Debugger PIN: 758-014-973
+[ 2025-02-05 10:43:59,728 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 10:43:59] "[32mGET /predict_datapoint HTTP/1.1[0m" 302 -
+[ 2025-02-05 10:43:59,849 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 10:43:59] "GET /login HTTP/1.1" 200 -
+[ 2025-02-05 10:44:00,414 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 10:44:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-02-05 10:44:03,889 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 10:44:03] "GET /login HTTP/1.1" 200 -
+[ 2025-02-05 10:44:18,162 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 10:44:18] "POST /login HTTP/1.1" 200 -
+[ 2025-02-05 10:44:19,985 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 10:44:19] "GET /register HTTP/1.1" 200 -
+[ 2025-02-05 10:44:29,021 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 10:44:29] "[32mPOST /register HTTP/1.1[0m" 302 -
+[ 2025-02-05 10:44:29,033 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 10:44:29] "GET /login HTTP/1.1" 200 -
+[ 2025-02-05 10:44:38,678 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 10:44:38] "[32mPOST /login HTTP/1.1[0m" 302 -
+[ 2025-02-05 10:44:38,747 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 10:44:38] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-05 10:57:32,986 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 10:57:32] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-05 11:01:06,154 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 11:01:06] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-05 11:03:21,791 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 11:03:21] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-05 11:03:41,632 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 11:03:41] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-05 11:37:42,314 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 11:37:42] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-05 11:38:51,417 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 11:38:51] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-05 11:39:02,024 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 11:39:02] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 11:39:27,969 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 11:39:27] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-05 11:39:31,623 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 11:39:31] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-05 11:42:40,678 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 11:42:40] "GET / HTTP/1.1" 200 -
+[ 2025-02-05 11:42:44,509 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 11:42:44] "GET /login HTTP/1.1" 200 -
+[ 2025-02-05 11:42:54,017 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 11:42:54] "[32mPOST /login HTTP/1.1[0m" 302 -
+[ 2025-02-05 11:42:54,047 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 11:42:54] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-05 11:43:09,508 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 11:43:09] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-05 11:46:50,648 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\ys136\\desktop\\data science\\diamond price prediction\\application.py', reloading

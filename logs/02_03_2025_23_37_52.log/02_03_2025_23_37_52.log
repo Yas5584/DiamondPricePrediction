@@ -1,0 +1,6 @@
+[ 2025-02-03 23:37:58,332 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-03 23:37:58,351 ] 97 werkzeug - INFO -  * Debugger PIN: 137-845-594
+[ 2025-02-03 23:37:58,594 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-03 23:37:58,610 ] 97 werkzeug - INFO -  * Debugger PIN: 758-014-973
+[ 2025-02-03 23:40:18,579 ] 97 werkzeug - INFO -  * Detected change in 'c:\\Users\\ys136\\Desktop\\Data Science\\Diamond Price Prediction\\application.py', reloading
+[ 2025-02-03 23:40:19,345 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ys136\\Desktop\\Data Science\\Diamond Price Prediction\\application.py', reloading

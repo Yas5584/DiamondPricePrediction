@@ -17,5 +17,6 @@ setup(
     author_email='ys136450@gmail.com',
     install_requires=get_requirements('requirements.txt'),
     packages=find_packages(),
+    host='0.0.0.0'
 
 )

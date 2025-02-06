@@ -1,0 +1,21 @@
+[ 2025-02-02 14:15:15,569 ] 20 root - INFO - data ingestion method starts
+[ 2025-02-02 14:15:24,538 ] 29 root - INFO - data ingestion method completed
+[ 2025-02-02 14:15:25,418 ] 67 root - INFO - read train and test are completed
+[ 2025-02-02 14:15:25,440 ] 68 root - INFO - Train DataFrame Path: 
+       id  carat      cut color clarity  depth  table     x     y     z  price
+0  168192   0.34    Ideal     I    VVS2   60.9   57.0  4.56  4.53  2.76    765
+1   35202   0.90     Good     E     SI1   63.8   57.0  6.07  6.03  3.87   4763
+2   41091   1.02  Premium     G     VS1   62.7   58.0  6.35  6.39  4.00   6139
+3   31239   0.32  Premium     G     VS2   62.1   59.0  4.37  4.35  2.71    720
+4   45722   0.35    Ideal     J    VVS2   61.1   56.0  4.53  4.57  2.78    774 
+[ 2025-02-02 14:15:25,454 ] 69 root - INFO - Test DataFrame Path: 
+       id  carat        cut color clarity  depth  table     x     y     z  price
+0   70432   0.53    Premium     E     VS2   60.8   56.0  5.24  5.21  3.19   1607
+1   64839   0.71  Very Good     H     SI1   62.9   57.0  5.67  5.69  3.56   2211
+2  185316   0.30      Ideal     H      IF   62.1   57.0  4.27  4.29  2.66    764
+3   84658   1.24    Premium     G     VS2   61.6   61.0  6.88  6.82  4.21   7655
+4   31953   0.36    Premium     E     VS1   60.4   58.0  4.60  4.63  2.80    735 
+[ 2025-02-02 14:15:25,454 ] 70 root - INFO - Obtainig Preproessor object
+[ 2025-02-02 14:15:25,454 ] 26 root - INFO - Data Transformation Process started
+[ 2025-02-02 14:15:25,455 ] 34 root - INFO - Pipeline concept started
+[ 2025-02-02 14:15:26,767 ] 84 root - INFO - Applying preprocessing object on training and testing data

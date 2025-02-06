@@ -1,0 +1,15 @@
+[ 2025-02-06 22:24:55,343 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-06 22:24:55,346 ] 97 werkzeug - INFO -  * Debugger PIN: 758-014-973
+[ 2025-02-06 22:25:15,690 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Feb/2025 22:25:15] "GET / HTTP/1.1" 200 -
+[ 2025-02-06 22:26:35,392 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Feb/2025 22:26:35] "GET / HTTP/1.1" 200 -
+[ 2025-02-06 22:26:41,623 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Feb/2025 22:26:41] "GET /login HTTP/1.1" 200 -
+[ 2025-02-06 22:26:50,984 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Feb/2025 22:26:50] "[32mPOST /login HTTP/1.1[0m" 302 -
+[ 2025-02-06 22:26:51,004 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Feb/2025 22:26:51] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-06 22:26:56,915 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Feb/2025 22:26:56] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-06 22:27:02,607 ] 58 root - INFO - DataFrame Gathered
+[ 2025-02-06 22:27:03,740 ] 58 root - INFO - DataFrame Gathered
+[ 2025-02-06 22:27:05,017 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Feb/2025 22:27:05] "POST /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-06 22:27:05,359 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Feb/2025 22:27:05] "POST /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-06 22:28:53,997 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Feb/2025 22:28:53] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-06 22:31:00,198 ] 58 root - INFO - DataFrame Gathered
+[ 2025-02-06 22:31:00,377 ] 97 werkzeug - INFO - 127.0.0.1 - - [06/Feb/2025 22:31:00] "POST /predict_datapoint HTTP/1.1" 200 -

@@ -1,0 +1,9 @@
+[ 2025-02-05 12:07:03,154 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-05 12:07:03,169 ] 97 werkzeug - INFO -  * Debugger PIN: 758-014-973
+[ 2025-02-05 12:07:03,709 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 12:07:03] "GET /predict HTTP/1.1" 200 -
+[ 2025-02-05 12:07:14,457 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 12:07:14] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+[ 2025-02-05 12:07:14,535 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 12:07:14] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-02-05 12:07:14,600 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 12:07:14] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-02-05 12:07:14,719 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 12:07:14] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=GHT0fPIEiFgRVKmDLvsn HTTP/1.1" 200 -
+[ 2025-02-05 12:07:14,764 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 12:07:14] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2025-02-05 14:05:18,016 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\ys136\\desktop\\data science\\diamond price prediction\\src\\pipelines\\prediction_pipeline.py', reloading

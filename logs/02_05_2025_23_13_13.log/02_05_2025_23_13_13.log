@@ -1,0 +1,8 @@
+[ 2025-02-05 23:13:17,520 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-05 23:13:17,533 ] 97 werkzeug - INFO -  * Debugger PIN: 758-014-973
+[ 2025-02-05 23:13:18,030 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:13:18] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-05 23:13:20,041 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:13:20] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:13:24,519 ] 58 root - INFO - DataFrame Gathered
+[ 2025-02-05 23:13:27,342 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:13:27] "POST /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:13:35,707 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 23:13:35] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 23:13:52,526 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ys136\\Desktop\\Data Science\\Diamond Price Prediction\\application.py', reloading

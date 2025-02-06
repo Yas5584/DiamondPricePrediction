@@ -1,0 +1,18 @@
+[ 2025-02-05 14:31:20,772 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-05 14:31:20,787 ] 97 werkzeug - INFO -  * Debugger PIN: 758-014-973
+[ 2025-02-05 14:31:32,919 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 14:31:32] "GET / HTTP/1.1" 200 -
+[ 2025-02-05 14:31:36,039 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 14:31:36] "GET /login HTTP/1.1" 200 -
+[ 2025-02-05 14:31:49,698 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 14:31:49] "[32mPOST /login HTTP/1.1[0m" 302 -
+[ 2025-02-05 14:31:49,728 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 14:31:49] "GET /frontpage HTTP/1.1" 200 -
+[ 2025-02-05 14:31:51,528 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 14:31:51] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 14:31:56,852 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 14:31:56] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 14:31:58,082 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 14:31:58] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 14:31:58,742 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 14:31:58] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 14:32:03,262 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 14:32:03] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 14:32:03,697 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 14:32:03] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 14:32:04,057 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 14:32:04] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 14:32:04,267 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 14:32:04] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 14:32:05,122 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 14:32:05] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 14:32:05,332 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 14:32:05] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 14:32:06,082 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 14:32:06] "GET /predict_datapoint HTTP/1.1" 200 -
+[ 2025-02-05 14:35:59,014 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\ys136\\desktop\\data science\\diamond price prediction\\application.py', reloading

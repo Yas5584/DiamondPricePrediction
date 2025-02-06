@@ -1,0 +1,10 @@
+[ 2025-02-05 12:03:24,864 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-02-05 12:03:24,879 ] 97 werkzeug - INFO -  * Debugger PIN: 758-014-973
+[ 2025-02-05 12:03:29,274 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 12:03:29] "[33mGET /predict_datapoint HTTP/1.1[0m" 404 -
+[ 2025-02-05 12:03:29,529 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 12:03:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-02-05 12:03:54,967 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 12:03:54] "[35m[1mGET /predict HTTP/1.1[0m" 500 -
+[ 2025-02-05 12:03:55,060 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 12:03:55] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[ 2025-02-05 12:03:55,287 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 12:03:55] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[ 2025-02-05 12:03:55,583 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 12:03:55] "GET /predict?__debugger__=yes&cmd=resource&f=console.png&s=5kyBa9ZD0gdgzhZ2qBn0 HTTP/1.1" 200 -
+[ 2025-02-05 12:03:55,630 ] 97 werkzeug - INFO - 127.0.0.1 - - [05/Feb/2025 12:03:55] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[ 2025-02-05 12:04:15,533 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\ys136\\desktop\\data science\\diamond price prediction\\application.py', reloading
